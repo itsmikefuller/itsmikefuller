@@ -1,4 +1,4 @@
-I am a Technology & Transformation Consultant in the Capital Markets Group at Deloitte, a team of quants and tech specialists responsible for R&D of the firm's economic scenario generator (ESG) solution.
+I am a Senior Software Consultant in the Capital Markets Group at Deloitte, a team of quants and tech specialists responsible for R&D of the firm's economic scenario generator (ESG) solution.
 
 I have 4 years of professional experience in Financial Services, with software consulting experience spanning across the Banking, Insurance, and Capital Markets sectors. This includes multiple secondments as a Python developer for hyperexponential's insurance pricing platform, hx Renew. In October 2024, I became a certified [Core Model Developer](https://www.credential.net/5b868f2f-4a8f-462b-af85-7e850b7d75d8#acc.x6gNLjHe) of the Renew platform. Through client engagements, I have gained first-hand experience in project management and stakeholder management, and regularly lead project workshops and provide mentorship to members of my team.
 
